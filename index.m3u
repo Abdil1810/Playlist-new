@@ -1,5 +1,9 @@
 #EXTM3U
+#EXTINF:-1, MOVIES
 https://raw.githubusercontent.com/Abdil1810/Playlist-new/main/MOVIES.m3u
-https://raw.githubusercontent.com/Abdil1810/Playlist-new/main/NASIONAL TV LOKAL.m3u
+#EXTINF:-1, NASIONAL TV LOKAL
+https://raw.githubusercontent.com/Abdil1810/Playlist-new/main/NASIONAL%20TV%20LOKAL.m3u
+#EXTINF:-1, Sport1
 https://raw.githubusercontent.com/Abdil1810/Playlist-new/main/Sport1.m3u
+#EXTINF:-1, Sports2
 https://raw.githubusercontent.com/Abdil1810/Playlist-new/main/Sports2.m3u
